@@ -1,0 +1,29 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.main{
+    background-image: url(pex.jpg);
+    background-position: top center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.align{
+    padding-top: 401px;   
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 365px;
+   }
+   nav ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    width:100%;
+    justify-content: flex-end;
+   }
+   nav li a{
+    height: 50px;
+    padding: 0px 30px;
+
+   }
